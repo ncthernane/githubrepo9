@@ -10,7 +10,7 @@
         <Grid>
             <RadioButton Content="RadioButton" HorizontalAlignment="Left" Height="815" Margin="9981,5064,0,0" VerticalAlignment="Top" Width="871"/>
             <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="8377,2363,0,0" VerticalAlignment="Top"/>
-            <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="3025" Margin="9587,3854,0,0" Stroke="Black" VerticalAlignment="Top" Width="5303"/>
+            <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="3025" Margin="4678,2383,0,0" Stroke="Black" VerticalAlignment="Top" Width="5303"/>
         </Grid>
     </Grid>
 </Window>
