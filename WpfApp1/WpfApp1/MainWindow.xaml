@@ -1,0 +1,16 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="-9225,-7734,-8212,0">
+        <Grid>
+            <RadioButton Content="RadioButton" HorizontalAlignment="Left" Height="815" Margin="9981,5064,0,0" VerticalAlignment="Top" Width="871"/>
+            <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="8377,2363,0,0" VerticalAlignment="Top"/>
+            <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="3025" Margin="9587,3854,0,0" Stroke="Black" VerticalAlignment="Top" Width="5303"/>
+        </Grid>
+    </Grid>
+</Window>
